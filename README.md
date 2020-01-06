@@ -11,4 +11,4 @@ Create an encrypt function that takes in a plain text phrase and a numeric key.
 Create a decrypt method that takes in encrypted text and numeric key which will restore the encrypted text back to its original form as long as correct key is supplied.
 
 ## Change Log
-Sun Jan 05 2020 17:55:59 <br>Created caesar cipher based on 26 letter 
+1-5-2020 9:00pm
